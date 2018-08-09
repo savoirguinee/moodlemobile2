@@ -115,7 +115,7 @@
         <variable name="SENDER_ID" value="694767596569" />
     </plugin>
     <plugin name="cordova-plugin-customurlscheme" spec="4.3.0">
-        <variable name="URL_SCHEME" value="moodlemobile" />
+        <variable name="URL_SCHEME" value="mooc.savoirguinee.com" />
     </plugin>
     <plugin name="ionic-plugin-keyboard" spec="2.2.1" />
     <plugin name="cordova-plugin-zip" spec="3.1.0" />
