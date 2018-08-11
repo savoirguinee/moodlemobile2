@@ -1,6 +1,6 @@
 {
   "name": "moodlemobile",
-  "app_id": "com.moodle.moodlemobile",
+  "app_id": "com.savoirguinee.moodlemobile",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {},
