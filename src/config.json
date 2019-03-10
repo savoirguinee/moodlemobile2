@@ -1,11 +1,11 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.savoirguinee.moodlemobile",
+    "appname": "SAVOIR-GUINEE",
+    "desktopappname": "MOOC-GUINEE Desktop",
     "versioncode": 3600,
     "versionname": "3.6.0",
     "cache_expiration_time": 300000,
-    "default_lang": "en",
+    "default_lang": "fr",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -65,8 +65,17 @@
         }
     },
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "customurlscheme": "mooc.savoirguinee.com",
+    "siteurl": [
+        {
+            "name": "MOOC-GUINEE",
+            "url": "https://mooc.savoirguinee.com/"
+        },
+        {
+            "name": "TRAINING",
+            "url": "https://training.savoirguinee.com/"
+        }
+    ],
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
